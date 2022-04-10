@@ -1,9 +1,10 @@
 import React from 'react';
+import ListaTimes from './components/ListaTimes';
 
 function App() {
   return (
     <div className="App">
-      Hello!
+      <ListaTimes />
     </div>
   );
 }
